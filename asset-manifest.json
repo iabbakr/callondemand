@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/callondemand/static/css/main.2719a779.css",
+    "main.js": "/callondemand/static/js/main.118dcebb.js",
+    "index.html": "/callondemand/index.html",
+    "main.2719a779.css.map": "/callondemand/static/css/main.2719a779.css.map",
+    "main.118dcebb.js.map": "/callondemand/static/js/main.118dcebb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2719a779.css",
+    "static/js/main.118dcebb.js"
+  ]
+}
