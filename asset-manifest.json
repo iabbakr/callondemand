@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/callondemand/static/css/main.4c9f2073.css",
-    "main.js": "/callondemand/static/js/main.b4efd599.js",
+    "main.js": "/callondemand/static/js/main.18995426.js",
     "index.html": "/callondemand/index.html",
     "main.4c9f2073.css.map": "/callondemand/static/css/main.4c9f2073.css.map",
-    "main.b4efd599.js.map": "/callondemand/static/js/main.b4efd599.js.map"
+    "main.18995426.js.map": "/callondemand/static/js/main.18995426.js.map"
   },
   "entrypoints": [
     "static/css/main.4c9f2073.css",
-    "static/js/main.b4efd599.js"
+    "static/js/main.18995426.js"
   ]
 }
